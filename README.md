@@ -1,1 +1,2 @@
 # Predictive-Analytics-for-Motor-Care-Unifying-Insights-with-a-Single-Model
+A robust predictive maintenance system for motors that leverages machine learning and IoT technologies, specifically focusing on a single-model analysis approach.We have used ESP8266 microcontroller along with several other sensors like current sensor,vibration sensor,humidity and temperature sensor to fetch the stats of motor and perform predictive maintenance.
